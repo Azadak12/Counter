@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 270px;
+    height: 330px;
+    background-color: bisque;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+#counter{
+ border: 2px solid red ;
+ margin-bottom: 50px;
+ border-radius: 10px;
+ font-family: cursive;
+}
+#desc{
+    text-align: center;
+    font-family: cursive;
+   margin-bottom: 10px;
+}
+button{
+    padding: 7px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: rgb(234, 141, 20);
+    color: rgb(19, 20, 19);
+    font-weight: bold;
+    cursor: pointer;
+}
+#reset{
+    margin-top: 10px;
+}
